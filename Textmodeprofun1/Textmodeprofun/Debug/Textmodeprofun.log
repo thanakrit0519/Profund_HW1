@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(7,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(7,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(10,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(10,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(13,15): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(13,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(19,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Textmodeprofun\Textmodeprofun\Source.cpp(19,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Textmodeprofun.vcxproj -> D:\Textmodeprofun\Debug\Textmodeprofun.exe
