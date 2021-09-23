@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(16,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(16,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(55,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(55,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(76,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(105,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(91,14): warning C4101: 'i': unreferenced local variable
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(91,10): warning C4101: 'by': unreferenced local variable
+C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Textmodeprofund3\Source.cpp(91,6): warning C4101: 'bx': unreferenced local variable
+  Textmodeprofund3.vcxproj -> C:\Users\thana\Desktop\ProfundHW\Textmodeprofund3\Debug\Textmodeprofund3.exe
